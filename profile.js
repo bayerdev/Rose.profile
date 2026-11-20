@@ -155,6 +155,6 @@ const PROFILE = {
       "email": "armannrehsi@gmail.com"
     }
   ],
-  "accent": "#20750f",
+  "accent": "#c1861f",
   "theme": ""
 };
